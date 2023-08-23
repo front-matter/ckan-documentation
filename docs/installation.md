@@ -15,14 +15,12 @@ The (primary) CKAN server should have a public IP address and a domain name (e.g
 
 ## Package installation
 
-These instructions assume you are using Ubuntu 22.04 and do a package install, the quickest and easiest way to install CKAN.
+These instructions assume you are using Ubuntu 22.04 and do a package install, the quickest and easiest way to install CKAN. Other installation options are installation from source and installation using Docker.
 
 You should install CKAN from package if:
 
 * You want to install CKAN on an Ubuntu 20.04 or 22.04, 64-bit server, and
 * You only want to run one CKAN website per server
-
-Other installation options are installation from source and installation using Docker.
 
 Update Ubuntu's package index.
 ```bash
