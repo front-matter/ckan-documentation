@@ -159,6 +159,8 @@ Enable the firewall.
 sudo ufw enable
 ```
 
+Install a free SSL certificate for your domain using Let's Encrypt.
+
 ```bash
 
 ```bash o
