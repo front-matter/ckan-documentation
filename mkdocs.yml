@@ -1,5 +1,8 @@
 site_name: CKAN Documentation
 site_url: https://ckan-documentation.front-matter.io
+repo_url: https://github.com/front-matter/ckan-documentation
+edit_uri: blob/main/docs/
+
 theme:
   name: material
   features:
